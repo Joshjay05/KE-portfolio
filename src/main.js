@@ -166,7 +166,7 @@ I am an Associate Product Manager with 2+ years of experience building user-focu
           <div class="relative pl-8 border-l" style="border-color:rgba(212,168,83,0.15)">
             <div class="timeline-item relative mb-10 pl-2">
               <div class="timeline-line"></div>
-              <span style="color:var(--amber);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase">Apr 2025 – Present</span>
+              <span style="color:var(--amber);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase">April 2025 – Present</span>
               <h3 class="display-font font-semibold text-xl mt-1 mb-1" style="color:var(--white)">Product Manager</h3>
               <p style="color:var(--amber-light);font-size:.9rem;margin-bottom:.5rem">April 2025 – Present | Product Manager | HopeRays · Healthtech · Lagos
  </p>
