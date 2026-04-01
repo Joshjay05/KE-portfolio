@@ -144,7 +144,7 @@ I thrive at the intersection of clarity and execution, building products that ar
           <p class="leading-relaxed mb-5" style="color:var(--slate-400)">
            
 
-I am an Associate Product Manager with 2+ years of experience building user-focused products across healthtech, education, and customer-facing platforms. I specialise in writing airtight PRDs, mapping complex user flows, and collaborating with engineering, design, and non-technical stakeholders.
+I am a Product Manager with 2+ years of experience building user-focused products across healthtech, education, and customer-facing platforms. I specialise in writing airtight PRDs, mapping complex user flows, and collaborating with engineering, design, and non-technical stakeholders.
 
 
 
