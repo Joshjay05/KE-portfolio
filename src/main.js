@@ -52,7 +52,7 @@ document.querySelector("#app").innerHTML = `
         <div>
           <div class="flex items-center gap-3 mb-6 animate-fade-up" style="animation-delay:.1s;opacity:0">
             <div class="w-8 h-px" style="background:var(--amber)"></div>
-            <span style="color:var(--amber);font-size:.75rem;letter-spacing:.15em;text-transform:uppercase;font-weight:600">Associate Product Manager &middot; Lagos, Nigeria</span>
+            <span style="color:var(--amber);font-size:.75rem;letter-spacing:.15em;text-transform:uppercase;font-weight:600">Product Manager &middot; Lagos, Nigeria</span>
           </div>
           <h1 class="display-font font-bold leading-tight mb-6 animate-fade-up" style="animation-delay:.25s;opacity:0;font-size:clamp(2.8rem,6.5vw,5.2rem);color:var(--white)">
             Kafayat<br/><span class="gold-gradient">Egbaaji</span>
