@@ -59,11 +59,8 @@ document.querySelector("#app").innerHTML = `
           </h1>
           <p class="text-lg leading-relaxed mb-10 max-w-lg animate-fade-up" style="animation-delay:.4s;opacity:0;color:var(--slate-400)">
          I turn complex user problems into clear, actionable product requirements - bridging healthtech, education, and creative platforms with structured thinking and empathetic execution.
-
 At HopeRays, I’ve worked across multiple products, from shaping core platform experiences to delivering client-facing solutions like MyLabScope and Candela. I’ve led user research, defined product requirements, and collaborated with cross-functional teams to take products from idea to launch.
-
 With a foundation in analytical thinking from a BSc in Soil Science and hands-on leadership experience managing a 13-member sales team, I bring a customer-focused, data-comfortable approach to product management.
-
 I thrive at the intersection of clarity and execution, building products that are not just functional, but meaningful and impactful.focused, data-comfortable approach to product management.
           </p>
           <div class="flex flex-wrap gap-4 animate-fade-up" style="animation-delay:.55s;opacity:0">
